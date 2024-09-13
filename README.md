@@ -1,4 +1,4 @@
-# GST Calculation API
+# GST Calculation API(refer the document to run the app, Pls connect(+917892134475,sudarshanshetty2000@gmail.com) if your unable to run the app)
 
 ## Overview
 This project is a Spring Boot application that calculates final price after tax for various product categories.
@@ -12,9 +12,9 @@ This project is a Spring Boot application that calculates final price after tax 
 - **Run the Application**:
     - Run the following command to start the application, passing your database username and password:
       ```bash
-      java -jar assignment-0.0.1-SNAPSHOT.jar \
-      --spring.datasource.username=root \
-      --spring.datasource.password=Admin@123
+     java -jar assignment-0.0.1-SNAPSHOT.jar ^
+--spring.datasource.username=root ^
+--spring.datasource.password=admin
       ```
 
     - Replace `root` and `Admin@123` with your actual database username and password.
