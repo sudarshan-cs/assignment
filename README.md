@@ -12,9 +12,9 @@ This project is a Spring Boot application that calculates final price after tax 
 - **Run the Application**:
     - Run the following command to start the application, passing your database username and password:
       ```bash
-     java -jar assignment-0.0.1-SNAPSHOT.jar ^
---spring.datasource.username=root ^
---spring.datasource.password=admin
+       java -jar assignment-0.0.1-SNAPSHOT.jar ^
+      --spring.datasource.username=root ^
+      --spring.datasource.password=admin
       ```
 
     - Replace `root` and `Admin@123` with your actual database username and password.
