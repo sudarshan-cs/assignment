@@ -6,7 +6,7 @@ This project is a Spring Boot application that calculates final price after tax 
  ## There are 2 option to run the project
  ### Option1.
 #### Prerequisites: JAVA 17 and MYSQL running in default port 3306
-- Navigate to the **[Releases](https://github.com/sudarshan-cs/assignment/releases/download/jar/assignment-0.0.1-SNAPSHOT.jar)** section of this repository.(clicking on Releases leads to jar download)
+- Navigate to the **[Releases](https://github.com/sudarshan-cs/assignment/releases/download/taxApp/assignment-0.0.1-SNAPSHOT.jar)** section of this repository.(clicking on Releases leads to jar download)
 - Download the latest JAR file (e.g., `assignment-0.0.1-SNAPSHOT.jar`).
 - Open a terminal or command prompt and navigate to the directory where jar file is downloaded
 - **Run the Application**:
@@ -21,7 +21,7 @@ This project is a Spring Boot application that calculates final price after tax 
 
 ### Option2.
 #### Prerequisites: JAVA 17,Maven(build tool) and MYSQL running in default port 3306
-- git clone https://github.com/sudarshan-cs/assignment.git
+- git clone https://github.com/sudarshan-cs/assignment
   - cd assignment(Open a terminal or command prompt and navigate to the directory where pom file resides)
 - **Run the Application**:
     - Run mvn clean package
